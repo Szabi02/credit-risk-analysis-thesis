@@ -134,9 +134,4 @@ pip install -r requirements.txt
 # Author
 
 **Szabolcs Molnár**
-
-BSc in Business Informatics
-
-Junior Data Analyst
-
 Budapest, Hungary
