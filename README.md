@@ -133,5 +133,8 @@ pip install -r requirements.txt
 
 # Author
 
+# Author
+
 **Szabolcs Molnár**
+
 Budapest, Hungary
